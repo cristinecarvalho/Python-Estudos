@@ -19,18 +19,6 @@ O repositório vai inclui exercícios sobre:
 
 Novos conteúdos serão adicionados conforme avanço nos estudos.
 
-## 📁 Organização
-
-Os exercícios são separados por assunto para facilitar a navegação.
-
-Exemplo:
-Python-Estudos/
-├── Repeticoes/
-├── Funcoes/
-├── HackerRank/
-├── README.md
-└── .gitignore
-
 ## 🎯 Objetivo
 Consolidar os fundamentos, desenvolver raciocínio lógico e preparação para:
 - Projetos para ciência de dados
