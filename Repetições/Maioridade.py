@@ -2,7 +2,7 @@ from datetime import date
 atual = date.today().year
 maior = 0
 menor = 0
-for pessoa in range(1, 8):
+for c in range(1, 8):
     nasc = int(input("Em que ano a pessoa nasceu?: "))
     idade = atual - nasc
     if idade >= 18:
